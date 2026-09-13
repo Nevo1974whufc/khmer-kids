@@ -1,0 +1,19 @@
+{
+  "episode": 1,
+  "title_en": "Apple and Banana",
+  "title_km": "ផ្លែប៉ោម និង ចេក",
+  "scenes": [
+    {"speaker": "mr_long", "en": "Hello everyone! I am Mr Long!", "km": "សួស្ដីអ្នកទាំងអស់គ្នា! ខ្ញុំឈ្មោះ មីស្ទើរ ឡុង!", "expr": "happy", "bg": "classroom"},
+    {"speaker": "ronnie", "en": "Hi hi hi! I am Ronnie! Let's learn English!", "km": "សួស្ដី! ខ្ញុំឈ្មោះ រ៉ូនី! តោះរៀនភាសាអង់គ្លេស!", "expr": "happy", "bg": "park"},
+    {"speaker": "mr_long", "en": "Today's first word is: apple. Apple!", "km": "ពាក្យទីមួយថ្ងៃនេះគឺ ផ្លែប៉ោម!", "expr": "pointing", "bg": "classroom", "word": "apple"},
+    {"speaker": "ronnie", "en": "Apple! An apple is red and sweet!", "km": "ផ្លែប៉ោម! វាពណ៌ក្រហម ហើយផ្អែម!", "expr": "surprised", "bg": "park", "word": "apple"},
+    {"speaker": "mr_long", "en": "Repeat after me. Apple! Say it loud!", "km": "និយាយតាមខ្ញុំ! Apple! និយាយឲយខ្ាំង!", "expr": "proud", "bg": "classroom", "word": "apple"},
+    {"speaker": "ronnie", "en": "Apple! Yes! I can say apple!", "km": "Apple! បាទ! ខ្ញុំអាចនិយាយថា apple!", "expr": "proud", "bg": "park", "word": "apple"},
+    {"speaker": "mr_long", "en": "Our second word is: banana. Banana!", "km": "ពាក្យទីពីរគឺ ចេក!", "expr": "pointing", "bg": "classroom", "word": "banana"},
+    {"speaker": "ronnie", "en": "Banana! Bananas are yellow. I love bananas!", "km": "ចេក! ចេកពណ៌លឿង! ខ្ញុំស្រឡាញ់ចេក!", "expr": "happy", "bg": "park", "word": "banana"},
+    {"speaker": "mr_long", "en": "Quiz time! Which one is the banana? Point to it!", "km": "ពេលសំណួរ! មួយណាជាចេក? ចង្អុលវា!", "expr": "thinking", "bg": "classroom", "word": "banana", "pause": 1.5},
+    {"speaker": "ronnie", "en": "There! The banana! Did I win?", "km": "នោះហើយ! ចេក! តើខ្ញុំ្នះទេ?", "expr": "pointing", "bg": "park", "word": "banana"},
+    {"speaker": "mr_long", "en": "Yes Ronnie! Well done, everyone!", "km": "បាទហើយ រ៉ូនី! ពូកែណាស់អ្នកទាំងអស់គ្នា!", "expr": "proud", "bg": "classroom"},
+    {"speaker": "ronnie", "en": "See you tomorrow! Bye bye!", "km": "ជួបគ្នាថ្ងៃសអែក! លាហើយ!", "expr": "happy", "bg": "park"}
+  ]
+}
